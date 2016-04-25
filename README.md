@@ -1,0 +1,2 @@
+# Magicard
+Android NFC game
